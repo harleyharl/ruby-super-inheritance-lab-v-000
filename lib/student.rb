@@ -6,7 +6,7 @@ class Student
 
   def raise_hand
     puts "Pick me!"
-    binding.pry
+    # binding.pry
   end
 
 
