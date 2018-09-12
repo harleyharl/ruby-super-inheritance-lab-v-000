@@ -5,7 +5,8 @@ class Student
   end
 
   def raise_hand
-    puts "Pick me!"
+    super
+    10.times puts "Pick me!"
     # binding.pry
   end
 
